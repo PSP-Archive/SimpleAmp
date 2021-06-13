@@ -1,0 +1,6 @@
+#ifndef _UTILS_H_
+#define _UTILS_H_
+
+int load_start_module(const char *name, int argc, char **argv);
+int start_usbhost(const char *bootpath);
+int stop_usbhost(void);

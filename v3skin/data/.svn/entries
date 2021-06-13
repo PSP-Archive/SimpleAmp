@@ -1,0 +1,59 @@
+8
+
+dir
+12
+http://simpleamp.svn.sourceforge.net/svnroot/simpleamp/v3/trunk/v3skin/data
+http://simpleamp.svn.sourceforge.net/svnroot/simpleamp
+
+
+
+2007-02-24T08:57:51.621676Z
+11
+dream_team
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3a2ae971-002a-0410-8760-cfd181022e63
+
+font.ttf
+file
+
+
+
+
+2007-02-27T17:58:56.000000Z
+ac5b280746e5eee7d336afd6f68ec437
+2007-02-21T20:30:19.705363Z
+9
+dream_team
+has-props
+
+dynamic
+dir
+
+main
+dir
+
+static
+dir
+
+battery
+dir
+
+filelist
+dir
+
+buttons
+dir
+

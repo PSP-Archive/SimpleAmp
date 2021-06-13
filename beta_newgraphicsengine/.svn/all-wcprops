@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/simpleamp/!svn/ver/11/v3/trunk/beta_newgraphicsengine
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/simpleamp/!svn/ver/11/v3/trunk/beta_newgraphicsengine/error.h
+END
+graphics.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simpleamp/!svn/ver/11/v3/trunk/beta_newgraphicsengine/graphics.c
+END
+keyboard_management.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/simpleamp/!svn/ver/11/v3/trunk/beta_newgraphicsengine/keyboard_management.h
+END
+font_bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/simpleamp/!svn/ver/11/v3/trunk/beta_newgraphicsengine/font_bitmap.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/simpleamp/!svn/ver/11/v3/trunk/beta_newgraphicsengine/main.c
+END
+graphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simpleamp/!svn/ver/11/v3/trunk/beta_newgraphicsengine/graphics.h
+END
+sprite.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/simpleamp/!svn/ver/11/v3/trunk/beta_newgraphicsengine/sprite.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/simpleamp/!svn/ver/11/v3/trunk/beta_newgraphicsengine/error.c
+END
+sprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/simpleamp/!svn/ver/11/v3/trunk/beta_newgraphicsengine/sprite.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/simpleamp/!svn/ver/11/v3/trunk/beta_newgraphicsengine/Makefile
+END
